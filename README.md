@@ -15,7 +15,7 @@
   * LeNet（已完成）
     * [Pytorch官方demo(Lenet)](https://www.bilibili.com/video/BV187411T7Ye)
     * [Tensorflow2官方demo](https://www.bilibili.com/video/BV1n7411T7o6)
-
+    * [Tensor]
   * AlexNet（已完成）
     * [AlexNet网络讲解](https://www.bilibili.com/video/BV1p7411T7Pc)
     * [Pytorch搭建AlexNet](https://www.bilibili.com/video/BV1W7411T7qc)
